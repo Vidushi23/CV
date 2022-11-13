@@ -1,0 +1,2 @@
+for utf_encodings:  https://unicode-table.com/en/sets/heart-symbols/
+for emoji keyboard shortcut: widows key + .(period) key
